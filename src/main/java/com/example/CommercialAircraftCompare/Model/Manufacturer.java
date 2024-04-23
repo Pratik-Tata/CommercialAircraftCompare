@@ -7,4 +7,6 @@ public class Manufacturer {
     @Getter @Setter private int id_internal;
     @Getter @Setter private String makeName;
     @Getter @Setter private String CountryOfOrigin;
+
+    @Getter @Setter private int yearOfOrigin;
 }
